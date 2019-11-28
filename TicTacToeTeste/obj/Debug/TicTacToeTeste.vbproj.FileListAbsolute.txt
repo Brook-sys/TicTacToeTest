@@ -1,0 +1,11 @@
+c:\users\murilo\documents\visual studio 2015\Projects\TicTacToeTeste\TicTacToeTeste\bin\Debug\TicTacToeTeste.exe.config
+c:\users\murilo\documents\visual studio 2015\Projects\TicTacToeTeste\TicTacToeTeste\bin\Debug\TicTacToeTeste.exe
+c:\users\murilo\documents\visual studio 2015\Projects\TicTacToeTeste\TicTacToeTeste\bin\Debug\TicTacToeTeste.pdb
+c:\users\murilo\documents\visual studio 2015\Projects\TicTacToeTeste\TicTacToeTeste\bin\Debug\TicTacToeTeste.xml
+c:\users\murilo\documents\visual studio 2015\Projects\TicTacToeTeste\TicTacToeTeste\obj\Debug\TicTacToeTeste.vbprojResolveAssemblyReference.cache
+c:\users\murilo\documents\visual studio 2015\Projects\TicTacToeTeste\TicTacToeTeste\obj\Debug\TicTacToeTeste.Form1.resources
+c:\users\murilo\documents\visual studio 2015\Projects\TicTacToeTeste\TicTacToeTeste\obj\Debug\TicTacToeTeste.Resources.resources
+c:\users\murilo\documents\visual studio 2015\Projects\TicTacToeTeste\TicTacToeTeste\obj\Debug\TicTacToeTeste.vbproj.GenerateResource.Cache
+c:\users\murilo\documents\visual studio 2015\Projects\TicTacToeTeste\TicTacToeTeste\obj\Debug\TicTacToeTeste.exe
+c:\users\murilo\documents\visual studio 2015\Projects\TicTacToeTeste\TicTacToeTeste\obj\Debug\TicTacToeTeste.xml
+c:\users\murilo\documents\visual studio 2015\Projects\TicTacToeTeste\TicTacToeTeste\obj\Debug\TicTacToeTeste.pdb
